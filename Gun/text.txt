@@ -1,0 +1,2 @@
+Name: Boris, Score: 2
+Name: antony, Score: 4
